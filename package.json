@@ -1,6 +1,9 @@
 {
   "name": "tic-tac-toe",
+  "description": "tic tac toe game app based on react-native-cli.",
   "version": "1.0.0",
+  "author": "Darshan Chobarkar <contact@darshanwebdev.com> (https://darshanwebdev.com)",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
